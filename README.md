@@ -1,6 +1,6 @@
 #### Hi there 👋
 
-👩‍💻 I'm NLP researcher
+👩‍💻 I'm a NLP researcher
 
 🗣 Looking for interesting PhD position in speech processing
 
