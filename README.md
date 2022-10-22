@@ -1,8 +1,8 @@
 #### Hi there 👋
-* My name in Anastasia Safonova
-* 👩‍💻 I'm NLP researcher
-* 🗣 Looking for interesting PhD position in speech processing
-* 📫 How to reach me: an.saphonova@gmail.com
+My name in Anastasia Safonova
+👩‍💻 I'm NLP researcher
+🗣 Looking for interesting PhD position in speech processing
+📫 How to reach me: an.saphonova@gmail.com
 
 <!--
 **safonovanastya/safonovanastya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
