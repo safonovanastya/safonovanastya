@@ -1,5 +1,4 @@
 #### Hi there 👋
-My name in Anastasia Safonova
 
 👩‍💻 I'm NLP researcher
 
